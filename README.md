@@ -1,3 +1,3 @@
-# Resume & Certifications
+# Biometric Boarding System Case Study
 
-This folder includes my updated resume and certifications such as CSPO, Asana Workflow Specialist, and PMP (in progress).
+This folder contains a case study of a biometric product launch I managed, including workflows, goals, and roadmaps aligned with company objectives.
