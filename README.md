@@ -1,3 +1,3 @@
-# Product Launch Checklists
+# Resume & Certifications
 
-Templates and checklists used to manage new product or feature launches, from kick-off to post-launch review.
+This folder includes my updated resume and certifications such as CSPO, Asana Workflow Specialist, and PMP (in progress).
