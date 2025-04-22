@@ -1,3 +1,3 @@
-# Biometric Boarding System Case Study
+# Asana Workflows
 
-This folder contains a case study of a biometric product launch I managed, including workflows, goals, and roadmaps aligned with company objectives.
+Screenshots and exports from my Asana setups, showcasing how I structure and manage product initiatives.
